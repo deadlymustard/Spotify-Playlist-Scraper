@@ -4,6 +4,9 @@ top songs across all playlists.
 
 I made this primarily so I could find popular songs that I was missing from other people's playlists easily.
 
+Here's an example playlist I generated using this method:
+https://open.spotify.com/playlist/5KG2ApATyizqjpdXyY8Byx?si=-R-WeS0uQTa7bt_kjT7BWw
+
 ## Usage Instructions
 1. Create an application in the Spotify Dashboard (https://developer.spotify.com/dashboard/applications)
 2. Modify `app.ts` to include your `CLIENT_ID` and `CLIENT_SECRET` from your created Spotify application (https://developer.spotify.com/dashboard/applications/<appId>)
