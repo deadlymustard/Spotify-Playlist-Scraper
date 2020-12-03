@@ -4,6 +4,7 @@
   "description": "Pulls playlists from Spotify matching an initial search query and generates a report of the top songs across all playlists.",
   "main": "app.ts",
   "scripts": {
+    "start": "ts-node app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Regan Shaner (deadlymustard)",

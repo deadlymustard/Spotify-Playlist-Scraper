@@ -12,7 +12,7 @@ https://open.spotify.com/playlist/5KG2ApATyizqjpdXyY8Byx?si=-R-WeS0uQTa7bt_kjT7B
 2. Modify `app.ts` to include your `CLIENT_ID` and `CLIENT_SECRET` from your created Spotify application (https://developer.spotify.com/dashboard/applications/<appId>)
 3. Modify `PLAYLIST_QUERY` with your desired query. 
 4. Modify `POPULARITY_THRESHOLD` to determine the minimum number of appearances a song must have before it returns in the results.
-5. Run `ts-node app.ts`
+5. Run `npm start`
 
 The application will generate an `output.json` file detailing the songs it found. It will also a generate a `playlist.txt`.
 
